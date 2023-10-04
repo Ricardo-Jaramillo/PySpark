@@ -23,11 +23,11 @@ Originally the course is taken with a linux OS in a VM env. I just moved onto Co
 [14.- ]()\n
 
 ## Project to practice
-[DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb)
-[Linear Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_LinearRegression.ipynb)
-[Logistic Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_Logistic_Regression.ipynb)
-[Decision Trees](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DecisionTrees_classifier.ipynb)
-[KMeans](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_KMeans_Clustering)
+[DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb)\n
+[Linear Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_LinearRegression.ipynb)\n
+[Logistic Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_Logistic_Regression.ipynb)\n
+[Decision Trees](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DecisionTrees_classifier.ipynb)\n
+[KMeans](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_KMeans_Clustering)\n
 
 ## Considerations
 
