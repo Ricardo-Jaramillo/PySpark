@@ -6,28 +6,28 @@ The original course shows more and includes how to install and use PySpark in 4 
 Originally the course is taken with a linux OS in a VM env. I just moved onto Colab and here's my documented journey...
 
 ## Contents in notebooks
-[0.- Basics of pyspark](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/00_Basics_of_PySpark.ipynb)\n
-[1.- Spark DataFrames operations](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/01_Spark_DataFrames_operations.ipynb)\n
-[2.- Dealing with Missing Data](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/02_Missing_data.ipynb)\n
-[3.- Dates and Timestamps](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/03_Dates_and_Timestamps.ipynb)\n
-[4.- Linear Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/04_Linear_Regression_basics.ipynb)\n
-[5.- Linear Regression example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/05_Linear_regression_example.ipynb)\n
-[6.- Logistic Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/06_Logistic_Regression.ipynb)\n
-[7.- Logistic Regression Ecample - **Titanic**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/07_Logistic_Regression_Titanic_example.ipynb)\n
-[8.- Decision Trees basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/08_DecisionTrees_%26_RandomForests_Basics.ipynb)\n
-[9.- Decision Trees example - **University**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/09_DecisionTrees_%26_RandomForests_University_example.ipynb)\n
-[10.- KMeans basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/10_KMeans_Clustering_basics.ipynb)\n
-[11.- KMeans Clustering example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/11_KMeans_clustering_exmaple.ipynb)\n
-[12.- Recommender Systems](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/12_RecommenderSystems.ipynb)\n
+[0.- Basics of pyspark](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/00_Basics_of_PySpark.ipynb) <br />
+[1.- Spark DataFrames operations](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/01_Spark_DataFrames_operations.ipynb) <br />
+[2.- Dealing with Missing Data](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/02_Missing_data.ipynb) <br />
+[3.- Dates and Timestamps](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/03_Dates_and_Timestamps.ipynb) <br />
+[4.- Linear Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/04_Linear_Regression_basics.ipynb) <br />
+[5.- Linear Regression example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/05_Linear_regression_example.ipynb) <br />
+[6.- Logistic Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/06_Logistic_Regression.ipynb) <br />
+[7.- Logistic Regression Ecample - **Titanic**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/07_Logistic_Regression_Titanic_example.ipynb) <br />
+[8.- Decision Trees basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/08_DecisionTrees_%26_RandomForests_Basics.ipynb) <br />
+[9.- Decision Trees example - **University**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/09_DecisionTrees_%26_RandomForests_University_example.ipynb) <br />
+[10.- KMeans basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/10_KMeans_Clustering_basics.ipynb) <br />
+[11.- KMeans Clustering example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/11_KMeans_clustering_exmaple.ipynb) <br />
+[12.- Recommender Systems](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/12_RecommenderSystems.ipynb) <br />
 [13.- NLP basics]()\n
 [14.- ]()\n
 
 ## Project to practice
-[DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb)\n
-[Linear Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_LinearRegression.ipynb)\n
-[Logistic Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_Logistic_Regression.ipynb)\n
-[Decision Trees](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DecisionTrees_classifier.ipynb)\n
-[KMeans](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_KMeans_Clustering)\n
+[DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb) <br />
+[Linear Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_LinearRegression.ipynb) <br />
+[Logistic Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_Logistic_Regression.ipynb) <br />
+[Decision Trees](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DecisionTrees_classifier.ipynb) <br />
+[KMeans](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_KMeans_Clustering) <br />
 
 ## Considerations
 
