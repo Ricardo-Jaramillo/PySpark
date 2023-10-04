@@ -22,7 +22,7 @@ Originally the course is taken with a linux OS in a VM env. I just moved onto Co
 [13.- NLP basics]()\n
 [14.- ]()\n
 
-## Project to practice
+## Projects to practice
 [DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb) <br />
 [Linear Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_LinearRegression.ipynb) <br />
 [Logistic Regression](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_Logistic_Regression.ipynb) <br />
