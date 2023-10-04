@@ -7,18 +7,30 @@ Originally the course is taken with a linux OS in a VM env. I just moved onto Co
 
 ## Contents in notebooks
 [0.- Basics of pyspark](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/00_Basics_of_PySpark.ipynb)
+
 [1.- Spark DataFrames operations](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/01_Spark_DataFrames_operations.ipynb)
+
 [2.- Dealing with Missing Data](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/02_Missing_data.ipynb)
+
 [3.- Dates and Timestamps](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/03_Dates_and_Timestamps.ipynb)
+
 [4.- Linear Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/04_Linear_Regression_basics.ipynb)
+
 [5.- Linear Regression example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/05_Linear_regression_example.ipynb)
+
 [6.- Logistic Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/06_Logistic_Regression.ipynb)
+
 [7.- Logistic Regression Ecample - **Titanic**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/07_Logistic_Regression_Titanic_example.ipynb)
+
 [8.- Decision Trees basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/08_DecisionTrees_%26_RandomForests_Basics.ipynb)
+
 [9.- Decision Trees example - **University**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/09_DecisionTrees_%26_RandomForests_University_example.ipynb)
+
 [10.- KMeans basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/10_KMeans_Clustering_basics.ipynb)
+
 [11.- KMeans Clustering example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/11_KMeans_clustering_exmaple.ipynb)
-[12.- Recommender Systems](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/12_RecommenderSystems.ipynb)
+
+[12.- Recommender Systems](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/12_RecommenderSystems.ipynb)\n
 [13.- NLP basics]()
 [14.- ]()
 
