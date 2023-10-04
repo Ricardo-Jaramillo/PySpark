@@ -5,6 +5,11 @@ The original course shows more and includes how to install and use PySpark in 4 
 
 Originally the course is taken with a linux OS in a VM env. I just moved onto Colab and here's my documented journey...
 
+## Table of Contents
+* [Contents in notebooks](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/README.md#contents-in-notebooks)
+* [Projects to practice](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/README.md#Projects-to-practice)
+* [Considerations](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/README.md#Considerations)
+
 ## Contents in notebooks
 [0.- Basics of pyspark](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/00_Basics_of_PySpark.ipynb) <br />
 [1.- Spark DataFrames operations](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/01_Spark_DataFrames_operations.ipynb) <br />
