@@ -21,14 +21,14 @@ Originally the course is taken with a linux OS in a VM env. I just moved onto Co
 [4.- Linear Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/04_Linear_Regression_basics.ipynb) <br />
 [5.- Linear Regression example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/05_Linear_regression_example.ipynb) <br />
 [6.- Logistic Regression basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/06_Logistic_Regression.ipynb) <br />
-[7.- Logistic Regression Ecample - **Titanic**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/07_Logistic_Regression_Titanic_example.ipynb) <br />
+[7.- Logistic Regression Example - **Titanic**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/07_Logistic_Regression_Titanic_example.ipynb) <br />
 [8.- Decision Trees basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/08_DecisionTrees_%26_RandomForests_Basics.ipynb) <br />
 [9.- Decision Trees example - **University**](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/09_DecisionTrees_%26_RandomForests_University_example.ipynb) <br />
 [10.- KMeans basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/10_KMeans_Clustering_basics.ipynb) <br />
 [11.- KMeans Clustering example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/11_KMeans_clustering_exmaple.ipynb) <br />
 [12.- Recommender Systems](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/12_RecommenderSystems.ipynb) <br />
-[13.- NLP basics]()\n
-[14.- ]()\n
+[13.- NLP basics](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/13_NLP_Basics.ipynb) <br />
+[14.- NLP Spam Detection example](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/14_NLP_SpamDetection_example.ipynb) <br />
 
 ## Projects to practice
 [DataFrames](https://github.com/Ricardo-Jaramillo/PySpark/blob/main/Project_DataFrames.ipynb) <br />
